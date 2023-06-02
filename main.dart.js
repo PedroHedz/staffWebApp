@@ -25702,7 +25702,7 @@ if(s.length===6)s="FF"+s
 if(s.length===8)return new A.O(A.ej("0x"+s,null)>>>0)},
 FH(a,b){var s=0,r=A.M(t.j),q,p=2,o,n,m,l,k,j,i
 var $async$FH=A.N(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:j="http://laconvenuevolaredo.somee.com/"+a+"/GetAll/"
+s=p}while(true)switch(s){case 0:j="https://laconvenuevolaredo.somee.com/"+a+"/GetAll/"
 if(a==="Eventos")j=J.auj(j,"?tipoEvento="+A.h(b))
 p=4
 s=7
@@ -25733,7 +25733,7 @@ case 2:return A.J(o,r)}})
 return A.L($async$FH,r)},
 apa(a,b){var s=0,r=A.M(t.j),q,p=2,o,n,m,l,k,j,i
 var $async$apa=A.N(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:j="http://laconvenuevolaredo.somee.com/Participantes/GetParticipantes/?id="+a+"&tipo="+b
+s=p}while(true)switch(s){case 0:j="https://laconvenuevolaredo.somee.com/Participantes/GetParticipantes/?id="+a+"&tipo="+b
 p=4
 s=7
 return A.I(A.aqT(null).zC(0,j,t.z),$async$apa)
@@ -25766,7 +25766,7 @@ aOs(a,b){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$vF=A.N(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
 o=a.eZ()
-l=A.eN("http://laconvenuevolaredo.somee.com/"+b+"/Create/")
+l=A.eN("https://laconvenuevolaredo.somee.com/"+b+"/Create/")
 k=t.N
 k=A.al(["Content-Type","application/json","Accept","application/json"],k,k)
 s=6
@@ -25792,7 +25792,7 @@ aOO(a,b){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$vH=A.N(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
 o=a.eZ()
-l=A.eN("http://laconvenuevolaredo.somee.com/"+b+"/Update/")
+l=A.eN("https://laconvenuevolaredo.somee.com/"+b+"/Update/")
 k=t.N
 k=A.al(["Content-Type","application/json","Accept","application/json"],k,k)
 s=6
@@ -25817,7 +25817,7 @@ FS(a,b){return A.aOH(a,b)},
 aOH(a,b){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$FS=A.N(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
-m=A.eN("http://laconvenuevolaredo.somee.com/"+b+"/Delete/")
+m=A.eN("https://laconvenuevolaredo.somee.com/"+b+"/Delete/")
 l=t.N
 k=A.al(["Content-Type","application/x-www-form-urlencoded"],l,l)
 s=6
@@ -25842,7 +25842,7 @@ FQ(a,b){return A.aQe(a,b)},
 aQe(a,b){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$FQ=A.N(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
-m=A.eN("http://laconvenuevolaredo.somee.com/"+b+"/Toggle/")
+m=A.eN("https://laconvenuevolaredo.somee.com/"+b+"/Toggle/")
 l=t.N
 k=A.al(["Content-Type","application/x-www-form-urlencoded"],l,l)
 s=6
@@ -25865,7 +25865,7 @@ case 1:return A.J(p,r)}})
 return A.L($async$FQ,r)},
 ap0(a,b){var s=0,r=A.M(t.y),q,p=2,o,n,m,l,k,j,i
 var $async$ap0=A.N(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:j="http://laconvenuevolaredo.somee.com/Participantes/EstaLleno?id="+a+"&tipo="+b
+s=p}while(true)switch(s){case 0:j="https://laconvenuevolaredo.somee.com/Participantes/EstaLleno?id="+a+"&tipo="+b
 p=4
 s=7
 return A.I(A.aqT(null).zC(0,j,t.z),$async$ap0)
@@ -25897,7 +25897,7 @@ apI(a){return A.aPM(a)},
 aPM(a){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$apI=A.N(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
-m=A.eN("http://laconvenuevolaredo.somee.com/Participantes/Presente/")
+m=A.eN("https://laconvenuevolaredo.somee.com/Participantes/Presente/")
 l=t.N
 k=A.al(["Content-Type","application/x-www-form-urlencoded"],l,l)
 s=6
@@ -25922,7 +25922,7 @@ apB(a){return A.aPF(a)},
 aPF(a){var s=0,r=A.M(t.Wd),q,p=2,o,n,m,l,k,j,i,h
 var $async$apB=A.N(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
-l=A.eN("http://laconvenuevolaredo.somee.com/Participantes/Pagado/")
+l=A.eN("https://laconvenuevolaredo.somee.com/Participantes/Pagado/")
 k=t.N
 j=A.al(["Content-Type","application/x-www-form-urlencoded"],k,k)
 s=7
@@ -25952,7 +25952,7 @@ ap_(a){return A.aOS(a)},
 aOS(a){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$ap_=A.N(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
-m=A.eN("http://laconvenuevolaredo.somee.com/Participantes/PrimerCorreo/")
+m=A.eN("https://laconvenuevolaredo.somee.com/Participantes/PrimerCorreo/")
 l=t.N
 k=A.al(["Content-Type","application/x-www-form-urlencoded"],l,l)
 s=6
@@ -25979,7 +25979,7 @@ Xu(a,b){return A.aO7(a,b)},
 aO7(a,b){var s=0,r=A.M(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$Xu=A.N(function(c,d){if(c===1){p=d
 s=q}while(true)switch(s){case 0:q=3
-m=A.eN("http://laconvenuevolaredo.somee.com/Participantes/Estado/")
+m=A.eN("https://laconvenuevolaredo.somee.com/Participantes/Estado/")
 l=t.N
 k=A.al(["Content-Type","application/x-www-form-urlencoded"],l,l)
 s=6
@@ -26004,7 +26004,7 @@ Xz(a,b){return A.aOR(a,b)},
 aOR(a,b){var s=0,r=A.M(t.Wd),q,p=2,o,n,m,l,k,j,i,h
 var $async$Xz=A.N(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
-l=A.eN("http://laconvenuevolaredo.somee.com/Participantes/EnviarComprobante/")
+l=A.eN("https://laconvenuevolaredo.somee.com/Participantes/EnviarComprobante/")
 k=t.N
 j=A.al(["Content-Type","application/x-www-form-urlencoded"],k,k)
 s=7
