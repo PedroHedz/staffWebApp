@@ -26499,7 +26499,7 @@ if(s.length===6)s="FF"+s
 if(s.length===8)return new A.O(A.eu("0x"+s,null)>>>0)},
 GK(a,b){var s=0,r=A.L(t.j),q,p=2,o,n,m,l,k,j,i
 var $async$GK=A.M(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:j="https://laconvenld.somee.com/"+a+"/GetAll/"
+s=p}while(true)switch(s){case 0:j="https://laconvenld.somee.com/"+a+"/GetAllActive/"
 if(a==="Eventos")j=J.axf(j,"?tipo="+A.h(b))
 p=4
 s=7
@@ -85734,7 +85734,7 @@ s=s==null?A.a0(51,255,255,255):A.bt(s)
 r=A.aC(a,k,t.w).w
 q=i.e
 q===$&&A.a()
-q=A.aX(q!=null?A.ti(B.ck.ck(q),B.dv,k,k):A.iD("assets/images/laConve.png"),5)
+q=A.aX(q!=null?A.ti(B.ck.ck(q),B.dv,k,k):A.iD("images/lcf_new.png"),5)
 p=A.aX(A.af(k,k,B.h,k,k,k,k,k,k,k,k,k,k),1)
 o=i.b
 o===$&&A.a()
@@ -85755,7 +85755,7 @@ default:break}return A.dl(!1,k,!0,j.aG(),k,!0,k,k,k,k,k,k,k,k,k,new A.a0e(this),
 A.a0d.prototype={
 $2(a,b){var s=b.d*0.1,r=this.a.c.e
 r===$&&A.a()
-r=r!=null?A.ti(B.ck.ck(r),B.dv,null,null):A.iD("assets/images/laConve.png")
+r=r!=null?A.ti(B.ck.ck(r),B.dv,null,null):A.iD("images/lcf_new.png")
 return new A.bv(new A.W(s,s,s,s),r,null)},
 $S:191}
 A.a0e.prototype={
@@ -86197,7 +86197,6 @@ r.toString
 q.f=A.bt(r)
 r=q.a.d.e
 r===$&&A.a()
-r.toString
 q.x=r}q.aN()},
 l(){var s,r=this.d
 r===$&&A.a()
