@@ -3,14 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "6e0037832f653af73df277c225c1fd05",
-"assets/AssetManifest.smcbin": "e8daf5ee3029f9c3d9833d6f5e21fe43",
+const RESOURCES = {"assets/AssetManifest.json": "b215d0ba7781711cf99b8263295428e8",
+"assets/AssetManifest.smcbin": "58492004bf106952a520ce93f8961d7f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "86293cdf69536673b670f164a86affb6",
 "assets/images/concursos.png": "6ec3440618f9b82c181ab8bf958902a5",
 "assets/images/lcf.png": "08eaac2860870916703fcc0323e379fd",
 "assets/images/lcf_new.png": "67bb7668e61c8ec8b936c53546db04cb",
 "assets/images/noticias.png": "bdd9a8b774a8bfd14fc041fb92ea89b0",
+"assets/images/prepagos.png": "033a669a7238bd9c7710b0b8377f68cc",
 "assets/images/torneos.png": "3560c861c53457a69535ffd09ec622b1",
 "assets/images/votaciones.png": "9dbe47fc972d19d680749ec28a5a505f",
 "assets/NOTICES": "22619113d6c361f2a2a13242849b891f",
@@ -29,9 +30,9 @@ const RESOURCES = {"assets/AssetManifest.json": "6e0037832f653af73df277c225c1fd0
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7ce54d5b75a6c0467d434540d18b6e22",
-"/": "7ce54d5b75a6c0467d434540d18b6e22",
-"main.dart.js": "329b21e4ff75c38d0f7cb339371b7c53",
+"index.html": "6072fe0c45fda49ceb7bf4395f417da0",
+"/": "6072fe0c45fda49ceb7bf4395f417da0",
+"main.dart.js": "100439657841b4a23171dbcdabf85e32",
 "manifest.json": "670e9c42ccaab5021b8a6202dfc870d9",
 "version.json": "9892006dcc28c28d2c00194e1f173ced"};
 // The application shell files that are downloaded before a service worker can
